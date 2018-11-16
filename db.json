@@ -1,0 +1,53 @@
+{
+  "posts": [
+     {
+      "id": 1,
+      "Nickname": "ku7ari^",
+      "Rank1v1": "44",
+      "LadderStats": "6/3",
+      "ELO": "1111",
+      "Games": "433",
+      "Wins": "183",
+      "Losses": "249",
+      "Disconnects": "18",
+      "Desyncs": "2",
+      "History": "X"
+    },
+    {
+      "id": 2,
+      "Nickname": "ExDacKaL^",
+      "Rank1v1": "1",
+      "LadderStats": "87/17",
+      "ELO": "1566",
+      "Games": "201",
+      "Wins": "183",
+      "Losses": "18",
+      "Disconnects": "7",
+      "Desyncs": "3",
+      "History": "X"
+    },
+    {
+      "id": 3,
+      "title": "Post 2"
+    },
+    {
+      "id": 4,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
